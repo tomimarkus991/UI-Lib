@@ -1,2 +1,2 @@
 # UI-Lib
-Vanilla JS UI
+Vanilla JS small UI-Library
